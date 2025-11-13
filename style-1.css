@@ -1,0 +1,60 @@
+.kelas{
+  text-align:center;
+  background-color: beige;
+}
+.kelas:hover{
+  color:red;
+  background-color:yellow;
+}
+.foto{
+  text-align:center;
+}
+.about{
+  background-color:beige;
+   text-align:center;
+   padding:10px;
+   margin:5px;
+   border:2px solid coral;
+}
+.id{
+  text-align:center;
+  padding:10px;
+  margin:5px;
+}
+#profil{
+  background-color:beige; 
+  border:2px solid coral;
+  padding:20px;
+  margin:10px;
+  text-align:justify;
+}
+#hobi{
+  background-color:beige;
+  border:2px solid coral;
+  padding: 20px;
+  margin:10px;
+  text-align: justify;
+}
+#fun{
+  background-color:beige;
+  border:2px solid coral;
+  padding:20px;
+  margin:10px;
+  text-align: justify;
+}
+#cita{
+ background-color:beige;
+  border:2px solid coral;
+  padding:20px;
+  margin:10px;
+  text-align:justify;
+}
+#kontak{
+  background-color:beige;
+  border:2px solid coral;
+  padding:20px;
+  margin:10px;
+  text-align:justify;
+}
+
+
